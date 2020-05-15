@@ -1,7 +1,6 @@
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 # Matrix-Interface
 ##Two different implementation for matrix interface : Using a regular 2-D array and Compressed Sparse Row (CSR) representation 
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Compile the Runner.cpp using the given Makefile.
 Do not change the Makefile.
@@ -22,9 +21,7 @@ input text files small1.tsv and small2.tsv, the command line will look like -
 
 
 
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 #Random large matrix generator :-
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - For Generating Random Matrices Use the Random.cpp and Makefile given with that
 
@@ -42,6 +39,7 @@ input text files small1.tsv and small2.tsv, the command line will look like -
 - Eg.
 
 	./exec sparse 0.7
+	
 	b = 2
 
 - This generates a sparse matrix of 4 x 4 with sparsity parameter 0.7
