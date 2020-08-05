@@ -3,6 +3,7 @@
 ## 1. Regular 2-D array representation  
 ## 2. Compressed Sparse Row (CSR) representation 
 
+### How to use:
 
 - Compile the Runner.cpp using the given Makefile.
 - Do not change the Makefile.
