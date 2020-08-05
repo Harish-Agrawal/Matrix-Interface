@@ -3,6 +3,7 @@
 ## 1. Regular 2-D array representation  
 ## 2. Compressed Sparse Row (CSR) representation 
 
+### How to use:
 
 - Compile the Runner.cpp using the given Makefile.
 - Do not change the Makefile.
@@ -26,8 +27,9 @@ input text files small1.tsv and small2.tsv, the command line will look like -
 # Random large matrix generator : 
 
 - For Generating Random Matrices Use the Random.cpp and Makefile.
-- Generates *nxn* dense or sparse matrices.
-- Usage :  
+- Generates ***NxN*** dense or sparse matrices.
+
+### How to use:
 - Compile the code using make command 
 - Run the file
 
