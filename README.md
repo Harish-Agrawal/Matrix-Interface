@@ -27,8 +27,9 @@ input text files small1.tsv and small2.tsv, the command line will look like -
 # Random large matrix generator : 
 
 - For Generating Random Matrices Use the Random.cpp and Makefile.
-- Generates *nxn* dense or sparse matrices.
-- Usage :  
+- Generates *NxN* dense or sparse matrices.
+
+### How to use:
 - Compile the code using make command 
 - Run the file
 
